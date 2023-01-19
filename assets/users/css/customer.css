@@ -1,0 +1,9 @@
+.alert-dismissable button{
+    display: none;
+}
+.alert-dismissable p{
+    margin: 0;
+}
+.alert-dismissable{
+    margin-top: 10px;
+}

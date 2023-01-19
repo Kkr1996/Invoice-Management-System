@@ -1,0 +1,23 @@
+.custom-error .alert{
+    background: none!important;
+    border: none!important;
+}
+.alert-dismissable button p{
+    margin: 0;
+}
+.alert-dismissable button{
+    width: auto;
+    display: none;
+}
+.alert-dismissable{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.alert-danger{
+    margin: 6px 0;
+    color: #721c24;
+    background-color: #ffffff;
+    border-color: #ffffff;
+    padding: 0;
+}

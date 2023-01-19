@@ -1,0 +1,58 @@
+.float-right{
+    text-align: right;
+    margin: 10px 15px;
+}
+.add-orders{
+    margin-top:45px;
+}
+.alert-dismissable button{
+    display: none;
+}
+.alert-dismissable p{
+ margin: 0;
+}
+.main-parent{
+    margin-top:45px;
+}
+.sb-sidenav-dark .sb-sidenav-menu .nav-link.active{
+    background: #2c7f9f;
+    margin: 6px 0;
+    color: #fff;
+}
+.alert-danger a{
+    display: none;
+}
+.alert-danger p{
+    margin: 0;
+    padding: 0;
+}
+.alert-danger{
+    background-color: inherit;
+    border-color: #fff;
+}
+.addservices{
+    background: #212529;
+    padding: 10px;
+    max-width: 200px;
+    text-align: center;
+    color: #fff;
+    margin: 13px 0;
+    cursor: pointer;
+}
+.removesubservices{
+    background: red;
+    border: none;
+    color: #fff;
+    float: right;
+    margin-top: 10px;
+    font-size: 15px;
+    padding: 5px 12px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.dynamic-field{
+    clear: both;
+}
+.dynamics_row{
+    clear: both;
+}

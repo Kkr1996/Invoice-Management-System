@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-11-24 03:00:50 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 05:32:55 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:02:52 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:08:13 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:10:30 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:13:10 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:14:29 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:16:25 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:21:45 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 07:22:24 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:04:15 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:10:02 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:14:41 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:16:26 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:20:27 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:26:43 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:27:18 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:28:54 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:30:10 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:31:22 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:38:30 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:54:40 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 08:54:49 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:02:23 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:23:50 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:26:06 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:33:47 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:34:59 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:36:24 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 09:37:56 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 12:26:26 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2021-11-24 12:28:22 --> 404 Page Not Found: Images/favicon.png
